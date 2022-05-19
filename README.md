@@ -18,4 +18,4 @@ EXAMPLE:
 
 5-YANKI not responsive (xxl only) ✨ LINK: https://mrsardorr.github.io/YANKI/ ✨
 
-YOU CAN FIND MY WORKS IN MY REPOSITORIES SECTION
+
