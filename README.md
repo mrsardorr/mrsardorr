@@ -16,6 +16,6 @@ EXAMPLE:
 
 5-AtlantGaz not finished yet (xxl only) ✨ LINK: https://mrsardorr.github.io/AtlantGaz/ ✨
 
-5-YANKI not responsive (xxl only) ✨ LINK: https://mrsardorr.github.io/YANKI/ ✨
+6-YANKI not responsive (xxl only) ✨ LINK: https://mrsardorr.github.io/YANKI/ ✨
 
 
