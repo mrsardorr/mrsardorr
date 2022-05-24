@@ -4,7 +4,7 @@ PORTFOLIO
 
 YOU CAN FIND MY WORKS IN MY REPOSITORIES SECTION
 
-EXAMPLE:
+EXAMPLES:
 
 1-Britlex it's fully responsive web-site ✨ LINK: https://mrsardorr.github.io/Britlex/ ✨  
 
