@@ -20,4 +20,6 @@ EXAMPLES:
 
 7-YANKI not responsive (xxl only) ✨ LINK: https://mrsardorr.github.io/YANKI/ ✨
 
+8-AVA not responsive (xxl only) ✨ LINK: https://mrsardorr.github.io/AVA/ ✨
+
 
