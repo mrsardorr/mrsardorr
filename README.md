@@ -14,7 +14,7 @@ EXAMPLES:
 
 4-ITservices it's 50% responsive not done yet ✨ LINK: https://mrsardorr.github.io/ITservices/ ✨
 
-5-Stir not responsive (xxl only) ✨ LINK: https://mrsardorr.github.io/Stir/  ✨
+5-Stir not responsive (xxl only) ✨ LINK: https://mrsardorr.github.io/Stir/  ✨       🔥🔥🔥
 
 6-AtlantGaz not finished yet (xxl only) ✨ LINK: https://mrsardorr.github.io/AtlantGaz/ ✨
 
