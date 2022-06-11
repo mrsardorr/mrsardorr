@@ -24,4 +24,5 @@ EXAMPLES:
 
 9-Interno not responsive (xxl only) ✨ LINK: https://mrsardorr.github.io/Interno/ ✨
 
+10-DesignRoomX not responsive (xxl only) ✨ LINK: https://mrsardorr.github.io/DesignRoomX/ ✨
 
