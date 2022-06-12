@@ -14,17 +14,17 @@ EXAMPLES:
 
 4-NOK only XXL and XS (320px) ✨ LINK: https://mrsardorr.github.io/NOK/ ✨
 
-4-ITservices it's 50% responsive not done yet ✨ LINK: https://mrsardorr.github.io/ITservices/ ✨
+5-ITservices it's 50% responsive not done yet ✨ LINK: https://mrsardorr.github.io/ITservices/ ✨
 
-5-Stir not responsive (xxl only) ✨ LINK: https://mrsardorr.github.io/Stir/  ✨       🔥🔥🔥
+6-Stir not responsive (xxl only) ✨ LINK: https://mrsardorr.github.io/Stir/  ✨       🔥🔥🔥
 
-6-AtlantGaz not finished yet (xxl only) ✨ LINK: https://mrsardorr.github.io/AtlantGaz/ ✨
+7-AtlantGaz not finished yet (xxl only) ✨ LINK: https://mrsardorr.github.io/AtlantGaz/ ✨
 
-7-YANKI not responsive (xxl only) ✨ LINK: https://mrsardorr.github.io/YANKI/ ✨
+8-YANKI not responsive (xxl only) ✨ LINK: https://mrsardorr.github.io/YANKI/ ✨
 
-8-AVA not responsive (xxl only) ✨ LINK: https://mrsardorr.github.io/AVA/ ✨
+9-AVA not responsive (xxl only) ✨ LINK: https://mrsardorr.github.io/AVA/ ✨
 
-9-Interno not responsive (xxl only) ✨ LINK: https://mrsardorr.github.io/Interno/ ✨
+10-Interno not responsive (xxl only) ✨ LINK: https://mrsardorr.github.io/Interno/ ✨
 
-10-DesignRoomX not responsive (xxl only) ✨ LINK: https://mrsardorr.github.io/DesignRoomX/ ✨
+11-DesignRoomX not responsive (xxl only) ✨ LINK: https://mrsardorr.github.io/DesignRoomX/ ✨
 
