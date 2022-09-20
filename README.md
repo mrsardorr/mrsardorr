@@ -30,3 +30,5 @@ EXAMPLES:
 
 11-DesignRoomX not responsive (xxl only) ✨ LINK: https://mrsardorr.github.io/DesignRoomX/ ✨
 
+12-Polar not responsive (xl-xxl only) ✨ LINK: https://mrsardorr.github.io/Polar/ ✨
+
