@@ -6,6 +6,9 @@ YOU CAN FIND MY OTHER WORKS IN MY REPOSITORIES SECTION
 
 My JS projects: https://mrsardorr.github.io/JS_projects/
 
+React Projects:
+1-NFT Collection ✨ LINK: https://nft-reactjs-app.netlify.app/ ✨  
+
 EXAMPLES:
 
 1-Britlex it's fully responsive web-site ✨ LINK: https://mrsardorr.github.io/Britlex/ ✨  
