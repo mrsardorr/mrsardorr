@@ -33,7 +33,7 @@ EXAMPLES:
 
 12-Polar not responsive (xl-xxl only) ✨ LINK: https://mrsardorr.github.io/Polar/ ✨
 
-React Projects:
+ReactJS Projects:
 
 1-NFT Collection ✨ LINK: https://nft-reactjs-app.netlify.app/ ✨  
 
