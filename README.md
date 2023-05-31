@@ -4,9 +4,6 @@ PORTFOLIO
 
 YOU CAN FIND MY OTHER WORKS IN MY REPOSITORIES SECTION
 
-My JS projects: https://mrsardorr.github.io/JS_projects/
-
-
 EXAMPLES:
 
 1-Britlex it's fully responsive web-site ✨ LINK: https://mrsardorr.github.io/Britlex/ ✨  
@@ -38,4 +35,6 @@ ReactJS Projects:
 1-NFT Collection ✨ LINK: https://nft-reactjs-app.netlify.app/ ✨  
 
 2-Pokko ✨ LINK: https://pokko-reactjs.netlify.app/ ✨  //react routes test web app//
+
+My JS projects: https://mrsardorr.github.io/JS_projects/
 
