@@ -32,11 +32,12 @@ EXAMPLES:
 
 ReactJS Projects:
 
-1-NFT Collection ✨ LINK: https://nft-reactjs-app.netlify.app/ ✨  
+1-YANKI (not linked to backend) ✨ LINK: https://yanki-react.netlify.app/ ✨
 
 2-Pokko ✨ LINK: https://pokko-reactjs.netlify.app/ ✨  //react routes test web app//
 
-3-YANKI (not linked to backend) ✨ LINK: https://yanki-react.netlify.app/ ✨
+3-NFT Collection (just designed) ✨ LINK: https://nft-reactjs-app.netlify.app/ ✨  
+
 
 My JS projects: https://mrsardorr.github.io/JS_projects/
 
