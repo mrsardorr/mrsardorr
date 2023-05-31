@@ -36,5 +36,7 @@ ReactJS Projects:
 
 2-Pokko ✨ LINK: https://pokko-reactjs.netlify.app/ ✨  //react routes test web app//
 
+3-YANKI (not linked to backend) ✨ LINK: https://yanki-react.netlify.app/ ✨
+
 My JS projects: https://mrsardorr.github.io/JS_projects/
 
