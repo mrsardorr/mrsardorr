@@ -39,5 +39,8 @@ ReactJS Projects:
 3-NFT Collection (just designed) ✨ LINK: https://nft-reactjs-app.netlify.app/ ✨  
 
 
-My JS projects: https://mrsardorr.github.io/JS_projects/
+My JS projects: 
+1-https://mrsardorr.github.io/JS_projects/
+2-https://urlshorter-97w6.onrender.com/ ✨URL shortner✨
+
 
