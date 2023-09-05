@@ -38,6 +38,8 @@ ReactJS Projects:
 
 3-NFT Collection (just designed) ✨ LINK: https://nft-reactjs-app.netlify.app/ ✨  
 
+4-Online chat LINK: ✨ https://niceechat.netlify.app/ ✨
+
 
 My JS projects: 
 1-https://mrsardorr.github.io/JS_projects/
